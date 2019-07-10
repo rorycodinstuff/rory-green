@@ -8,6 +8,6 @@ tags:
   - nav
 ---
 
-I'm Rory Green and I write and make things with computers.
+Hi! I'm Rory Green and I write and make things with computers.
 
 ![Rory is sitting in a cafe with a goofy grin](static/img/home_image.jpg)
