@@ -9,7 +9,7 @@ date: 2018-01-01
 permalink: /contact/index.html
 ---
 
-<img src="static/img/RG_headshot.jpg" alt="Rory smiling" style="width: 100%; max-width: 400px;" />
+<img src="static/img/headshot.jpg" style="width: 100%; max-width: 400px;" alt="Rory smiling" />
 
 You can email me at hi[at]rory.green
 
