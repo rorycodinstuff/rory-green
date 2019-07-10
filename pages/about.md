@@ -6,27 +6,42 @@ navtitle: About
 tags:
   - nav
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Hi! I'm Rory Green.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+I'm a writer, editor and casual coder who lives and works on [Gadigal land](https://www.sydneybarani.com.au/sites/aboriginal-people-and-place/).
 
-## Our services
+## Arts work
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Currently:
+- Online Editor for [Voiceworks](https://www.voiceworksmag.com.au/)
+- Zine Fair Coordinator for [National Young Writers Festival](https://youngwritersfestival.org/)
 
-### Blue-sky thinking
+Previously:
+- Codirector for [Subbed In](https://subbed.in/)
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-#### Management frameworks
+##Writing
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I primarily write poetry and electronic literature about memory, place and pop culture. In 2016 I took part in Express Media's inaugural [Toolkits :Poetry program](https://expressmedia.org.au/news/introducing-the-poets-of-toolkits/), and in 2019 I was selected for Running Dog's [inaugural poetry micro-residency](http://rundog.art/news/announcing-running-dogs-inaugural-poetry-micro-residents/).
 
-##### Regulatory convergence
+Some of my writing includes:
+- *futurity blues*, [Running Dog](http://rundog.art/news/futurity-blues/)
+- *mammoth*, [Rabbit Poetry issue 24, LGBTQIA+](http://rabbitpoetry.com/?product=rabbit-24-lgbtqia-within-australia)
+- *golem*, [Plumwood Mountain Volume 5 Number 2](https://plumwoodmountain.com/golem/)
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I also make zines! My infozines are free to download and distribute:
+- [Make computer-generated poems, fiction and bots with Tracery](https://drive.google.com/open?id=1JGFwdwIIlpFUJd4rySR1XuFr5yGoQxhv)
+- [Little book of poem games](https://drive.google.com/open?id=1F-c0ekqIv4OYX2Sj48nuTcmLzBvCXfmx)
+- [Make interactive fiction with Twine](https://drive.google.com/open?id=1_3mKP2mtYezO1Vk1Ac2tFjmh12LbZrul)
+- [Making narrative games with Bitsy](https://drive.google.com/open?id=1kHHyb0tYu7HlUpAXleTAHvMVC8kWIBB0)
+
+
+##Events
+
+At the moment I'm open for opportunities to read my work and facilitate workshops on a number of topics including: computer-facilitated writing, zine-making, creative constraints, and online communities.
+
+Some past events I've been involved with include:
+- Panel: 'Poetry and Play', Freeplay Independent Games Festival, May 2018
+- Readings: 'Multi-media Multi-verse' and 'Fan Fiction Cos-Play Reading', National Young Writers Festival, September 2017
+- Reading: 'roflcopters everywhere and not a drop to drink', Subbed In, August 2016
+- Reading: 'roses really don't smell like poo poo', Subbed In, December 2015

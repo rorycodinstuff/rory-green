@@ -147,7 +147,7 @@ a[rel="tag"]:visited {
 	height: 2em;
   border: 1px solid var(--red);
 	background-color: var(--red);
-	color: var(--dark-green);
+	color: var(--white);
   border-radius: .25em;
   text-decoration: none;
 	margin: 0 .5em .5em 0;
@@ -193,6 +193,10 @@ button {
 	background-color: var(--dark-green);
 	color: var(--white);
 	cursor: pointer;
+}
+
+img {
+	max-width: 100%;
 }
 
 @media screen and (min-width:768px) {
