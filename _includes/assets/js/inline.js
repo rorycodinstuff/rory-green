@@ -7,3 +7,5 @@ if (window.netlifyIdentity) {
     }
   });
 }
+
+ @import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
