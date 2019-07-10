@@ -119,7 +119,7 @@ header nav li {
 	margin: 0 .5em;
 }
 
-header nav li a[href], a[href]:visited, a[href]:not(:hover) {
+header nav li a[href], a[href]:visited) {
 	text-decoration: none;
 	color: var(--dark-green);
 }
