@@ -11,7 +11,7 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
   });
 
-   eleventyConfig.addPassthroughCopy("_includes/static/fonts");
+   eleventyConfig.addPassthroughCopy("/static/fonts");
 
   // Date formatting (machine readable)
   eleventyConfig.addFilter("machineDate", dateObj => {
