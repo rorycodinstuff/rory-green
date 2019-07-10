@@ -105,6 +105,11 @@ header > em {
 }
 
 /* Header Nav */
+
+header nav ul {
+	margin-left: 0;
+}
+
 header nav ul :first-child {
 	margin-left: 0;
 }
