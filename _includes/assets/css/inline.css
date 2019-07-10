@@ -8,6 +8,14 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/static/fonts/WorkSans-Regular.ttf") format("ttf");
+  font-display: swap;
+}
+
 html,
 body {
 	padding: 0;
