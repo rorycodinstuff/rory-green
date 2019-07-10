@@ -49,7 +49,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--dark-green);
+	color: var(--mid-green);
 }
 
 a[href]:not(:hover) {
@@ -91,6 +91,7 @@ pre {
 ul {
 	padding: 0;
 	list-style: square;
+	margin-left: 20px;
 }
 
 /* Header Logo (style as h2) */
@@ -114,6 +115,7 @@ header nav li {
 
 header nav li a[href]:not(:hover) {
 	text-decoration: none;
+	color: var(--dark-green);
 }
 
 header nav li a[data-current="current item"] {
