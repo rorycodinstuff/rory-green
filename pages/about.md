@@ -1,5 +1,5 @@
 ---
-title: About us
+title: About
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 navtitle: About
@@ -20,7 +20,7 @@ Previously:
 - Codirector for [Subbed In](https://subbed.in/)
 
 
-##Writing
+## Writing
 
 I primarily write poetry and electronic literature about memory, place and pop culture. In 2016 I took part in Express Media's inaugural [Toolkits :Poetry program](https://expressmedia.org.au/news/introducing-the-poets-of-toolkits/), and in 2019 I was selected for Running Dog's [inaugural poetry micro-residency](http://rundog.art/news/announcing-running-dogs-inaugural-poetry-micro-residents/).
 
@@ -36,7 +36,7 @@ I also make zines! My infozines are free to download and distribute:
 - [Making narrative games with Bitsy](https://drive.google.com/open?id=1kHHyb0tYu7HlUpAXleTAHvMVC8kWIBB0)
 
 
-##Events
+## Events
 
 At the moment I'm open for opportunities to read my work and facilitate workshops on a number of topics including: computer-facilitated writing, zine-making, creative constraints, and online communities.
 
