@@ -15,4 +15,4 @@ You can email me at hi[at]rory.green
 
 [Github](https://github.com/rorycodinstuff)
 
-<img src="static/img/headshotrg.jpg" style="width: 100%; max-width: 400px;" alt="Rory smiling" />
+<img src="./static/img/headshotrg.jpg" style="width: 100%; max-width: 400px;" alt="Rory smiling" />
