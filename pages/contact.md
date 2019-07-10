@@ -11,8 +11,9 @@ permalink: /contact/index.html
 
 You can email me at hi[at]rory.green
 
+<img src="/static/img/headshotrg.jpg" style="width: 100%; max-width: 400px;" alt="Rory smiling" />
+
+
 [Twitter](https://twitter.com/rorydoinstuff)
 
 [Github](https://github.com/rorycodinstuff)
-
-<img src="./static/img/headshotrg.jpg" style="width: 100%; max-width: 400px;" alt="Rory smiling" />
