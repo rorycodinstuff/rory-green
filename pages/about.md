@@ -40,7 +40,7 @@ I also make zines! My infozines are free to download and distribute:
 
 ## Events
 
-At the moment I'm open for opportunities to read my work and facilitate workshops on a number of topics including: computer-facilitated writing, zine-making, creative constraints, and online communities.
+I'm currently available to read my work and facilitate workshops on a number of topics including: computer-facilitated writing, zine-making, creative constraints, and online communities. [Email me](mailto:hi@rory.green) if you've got a hookup!
 
 Some past events I've been involved with include:
 - Panel: 'Poetry and Play', Freeplay Independent Games Festival, May 2018
