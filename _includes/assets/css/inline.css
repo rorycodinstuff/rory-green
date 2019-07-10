@@ -49,7 +49,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--mid-green);
+	color: var(--dark-green);
 }
 
 a[href]:not(:hover) {

@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2017-01-01T00:00:00.000Z
+date: 2019-07-10
 permalink: /about/index.html
 navtitle: About
 tags:
@@ -29,6 +29,8 @@ Some of my writing includes:
 - *mammoth*, [Rabbit Poetry issue 24, LGBTQIA+](http://rabbitpoetry.com/?product=rabbit-24-lgbtqia-within-australia)
 - *golem*, [Plumwood Mountain Volume 5 Number 2](https://plumwoodmountain.com/golem/)
 
+My current main writing project is [Otherwise Pokedex](https://tinyletter.com/otherwisepokedex), a Tinyletter I have been publishing since January 2017 with the aim to publish a poem for each of the 151 first generation Pokemon.
+
 I also make zines! My infozines are free to download and distribute:
 - [Make computer-generated poems, fiction and bots with Tracery](https://drive.google.com/open?id=1JGFwdwIIlpFUJd4rySR1XuFr5yGoQxhv)
 - [Little book of poem games](https://drive.google.com/open?id=1F-c0ekqIv4OYX2Sj48nuTcmLzBvCXfmx)
@@ -45,3 +47,7 @@ Some past events I've been involved with include:
 - Readings: 'Multi-media Multi-verse' and 'Fan Fiction Cos-Play Reading', National Young Writers Festival, September 2017
 - Reading: 'roflcopters everywhere and not a drop to drink', Subbed In, August 2016
 - Reading: 'roses really don't smell like poo poo', Subbed In, December 2015
+
+## Acknowledgements
+
+Thank you to [Rebecca-Marian Irene](https://www.rebeccamarianirene.com.au/) for taking the pics of me used on this site and [Dan Urbanowicz](https://www.danurbanowicz.com/) for the site template.
