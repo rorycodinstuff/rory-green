@@ -10,4 +10,4 @@ tags:
 
 Hi! I'm Rory Green and I write and make things with computers.
 
-![Rory is sitting in a cafe with a goofy grin](static/img/home_image.jpg)
+<img src="static/img/home_image.jpg" style="width: 100%; max-width: 450px;" alt="Rory is sitting in a cafe with a goofy grin" />
