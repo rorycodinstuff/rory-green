@@ -114,10 +114,17 @@ header nav li {
 	margin: 0 .5em;
 }
 
-header nav li a[href]:visited, a[href]:not(:hover) {
+header nav li a[href], a[href]:visited, a[href]:not(:hover) {
 	text-decoration: none;
 	color: var(--dark-green);
 }
+
+header nav li a[href]:hover {
+	text-decoration: underline;
+	color: var(--dark-green);
+
+}
+
 
 header nav li a[data-current="current item"] {
 	font-weight: 700;
