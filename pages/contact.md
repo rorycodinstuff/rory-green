@@ -1,11 +1,11 @@
 ---
-layout: layouts/contact.njk
+layout: layouts/home.njk
 title: Say hi
 tags:
   - nav
 navtitle: Contact
 section: contact
-date: 2018-01-01
+date: 2019-07-10
 permalink: /contact/index.html
 ---
 
