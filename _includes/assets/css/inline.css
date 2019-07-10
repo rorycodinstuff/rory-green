@@ -101,6 +101,8 @@ header > em {
 	margin: .67em 0;
 	font-weight: normal;
 	font-style: normal;
+	color: var(--dark-green);
+
 }
 
 /* Header Nav */
