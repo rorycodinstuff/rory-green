@@ -9,10 +9,10 @@ date: 2019-07-10
 permalink: /contact/index.html
 ---
 
-<img src="static/img/headshot.jpg" style="width: 100%; max-width: 400px;" alt="Rory smiling" />
-
 You can email me at hi[at]rory.green
 
 [Twitter](https://twitter.com/rorydoinstuff)
 
 [Github](https://github.com/rorycodinstuff)
+
+<img src="static/img/headshot.jpg" style="width: 100%; max-width: 400px;" alt="Rory smiling" />
