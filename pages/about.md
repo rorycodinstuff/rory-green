@@ -14,11 +14,10 @@ I'm a writer, editor and casual coder who lives and works on [Gadigal land](http
 
 Currently:
 - Online Editor for [Voiceworks](https://www.voiceworksmag.com.au/)
-- Zine Fair Coordinator for [National Young Writers Festival](https://youngwritersfestival.org/)
 
 Previously:
 - Codirector for [Subbed In](https://subbed.in/)
-
+- Zine Fair Coordinator for [National Young Writers Festival](https://youngwritersfestival.org/)
 
 ## Writing
 
@@ -43,10 +42,10 @@ I also make zines! My infozines are free to download and distribute:
 I'm currently available to read my work and facilitate workshops on a number of topics including: computer-facilitated writing, zine-making, creative constraints, and online communities. [Email me](mailto:hi@rory.green) if you've got a hookup!
 
 Some past events I've been involved with include:
+- Workshop: 'Decoding Digital Storytelling', Digital Writers Festival, November 2019
 - Panel: 'Poetry and Play', Freeplay Independent Games Festival, May 2018
 - Readings: 'Multi-media Multi-verse' and 'Fan Fiction Cos-Play Reading', National Young Writers Festival, September 2017
 - Reading: 'roflcopters everywhere and not a drop to drink', Subbed In, August 2016
-- Reading: 'roses really don't smell like poo poo', Subbed In, December 2015
 
 ## Acknowledgements
 
