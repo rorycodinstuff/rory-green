@@ -14,6 +14,7 @@ I'm a writer, editor and casual coder who lives and works on [Gadigal land](http
 
 Currently:
 - Online Editor for [Voiceworks](https://www.voiceworksmag.com.au/)
+- Facilitator for [Toolkits: Digital Storytelling](https://expressmedia.org.au/programs/toolkits/toolkits-digital-storytelling/)
 
 Previously:
 - Codirector for [Subbed In](https://subbed.in/)
@@ -21,10 +22,11 @@ Previously:
 
 ## Writing
 
-I primarily write poetry and electronic literature about memory, place and pop culture. In 2016 I took part in Express Media's inaugural [Toolkits :Poetry program](https://expressmedia.org.au/news/introducing-the-poets-of-toolkits/), and in 2019 I was selected for Running Dog's [inaugural poetry micro-residency](http://rundog.art/news/announcing-running-dogs-inaugural-poetry-micro-residents/).
+I write poetry and electronic literature about memory, place and pop culture. In 2016 I took part in Express Media's inaugural [Toolkits: Poetry program](https://expressmedia.org.au/news/introducing-the-poets-of-toolkits/), and in 2019 I was selected for Running Dog's [inaugural poetry micro-residency](http://rundog.art/news/announcing-running-dogs-inaugural-poetry-micro-residents/).
 
-Some of my writing includes:
+Here are some things I have written:
 - *futurity blues*, [Running Dog](http://rundog.art/news/futurity-blues/)
+- *sentiment anomaly*, [The Lifted Brow](https://www.theliftedbrow.com/liftedbrow/2020/1/12/pproujynrq3mc96e8kzw2ghuv08kz7)
 - *mammoth*, [Rabbit Poetry issue 24, LGBTQIA+](http://rabbitpoetry.com/?product=rabbit-24-lgbtqia-within-australia)
 - *golem*, [Plumwood Mountain Volume 5 Number 2](https://plumwoodmountain.com/golem/)
 
