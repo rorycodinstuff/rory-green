@@ -8,7 +8,7 @@ tags:
 ---
 Hi! I'm Rory Green.
 
-I'm a writer, editor and casual coder who lives and works on [Gadigal land](https://www.sydneybarani.com.au/sites/aboriginal-people-and-place/).
+I'm a writer, editor and coder who lives and works on [Gadigal land](https://www.sydneybarani.com.au/sites/aboriginal-people-and-place/).
 
 ## Arts work
 
