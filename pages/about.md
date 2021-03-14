@@ -37,7 +37,7 @@ I'm currently available to read my work and facilitate workshops on a number of 
 
 Some past events I've been involved with include:
 
-* Workshop: 'Decoding Digital Poetry' Carriageworks & Running Dog, March 2021
+* Workshop: 'Decoding Digital Poetry', Running Dog at Carriageworks, March 2021
 * Workshop: 'Digital Writing Experimentations', National Young Writers Festival, October 2020
 * Workshop: 'Writing Machines', Queensland Poetry Festival, September 2020
 * Panel: 'Games as Digital Literature', Freeplay Independent Games Festival, May 2020
