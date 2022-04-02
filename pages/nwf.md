@@ -17,13 +17,16 @@ Some of the poems I talk about in the NWF panel 'Demystifying Experimental Poetr
 
 <iframe style="width: 100%; height: 550px; border: none;" src="https://eager-ramanujan-a7af90.netlify.app/">
 
+
 **sentiment anomaly** - published in [The Lifted Brow](https://www.theliftedbrow.com/liftedbrow/2020/1/12/pproujynrq3mc96e8kzw2ghuv08kz7), 2020.
 
 <iframe style="width: 100%; height: 600px;  border: none;" src="https://sentiment-anomaly.glitch.me/">
 
+
 **gengar** - published in [Cordite Poetry Review](http://cordite.org.au/poetry/propaganda/gengar/), 2020.
 
 <iframe style="width: 100%; height: 500px;  border: none;" src="https://media.cordite.org.au/gengar/">
+
 
 **UP** – published in [Taper](https://taper.badquar.to/6/up.html), 2021.
 
