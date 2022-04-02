@@ -18,7 +18,9 @@ Some of the poems I talk about in the NWF panel 'Demystifying Experimental Poetr
 <iframe style="width: 100%; height: 550px; border: none;" src="https://eager-ramanujan-a7af90.netlify.app/">
 
 
-**sentiment anomaly** - published in [The Lifted Brow](https://www.theliftedbrow.com/liftedbrow/2020/1/12/pproujynrq3mc96e8kzw2ghuv08kz7), 2020.
+## sentiment anomaly ##
+
+published in [The Lifted Brow](https://www.theliftedbrow.com/liftedbrow/2020/1/12/pproujynrq3mc96e8kzw2ghuv08kz7), 2020.
 
 <iframe style="width: 100%; height: 600px;  border: none;" src="https://sentiment-anomaly.glitch.me/">
 
