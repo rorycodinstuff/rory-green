@@ -30,3 +30,27 @@ Some of the poems I talk about in the NWF panel 'Demystifying Experimental Poetr
 <iframe style="width: 100%; height: 500px;" src="https://taper.badquar.to/6/up.html">
 
 
+## Resources ##
+
+Interested in exploring more poetry like this, or making it yourself?
+
+Check out these digital journals for inspiration:
+
+- [Cordite Poetry: GAME issue](http://cordite.org.au/content/poetry/game/)
+- [Voiceworks Online](https://www.voiceworksmag.com.au/)
+- [Running Dog](https://rundog.art/poetry/)
+- [Backslash Lit](https://backslashlit.com/)
+- [Taper](https://taper.badquar.to/)
+- Liminal ([Glitch](https://www.liminalmag.com/glitch), [Taste](https://www.liminalmag.com/taste) and [Community](https://www.liminalmag.com/community) issues)
+
+There are many free online tools, like [Twine](https://twinery.org/) and [Bitsy](https://www.bitsy.org/), you can use to start making digital work.  A much larger list of free software to explore is available at the Tiny Tools Directory. Make things, experiment, play!
+
+If you are interested in learning to code creatively, The Coding Train video series on YouTube is fantastic.
+
+>"This is the result of over a year of late nights and weekends and the desire to completely disregard implementation and my current skill level when thinking up the concept for a piece.
+>
+>Naturally much of the time was spent scratching my head and had I done it again now I would probably finish it in a much shorter time, but this is also a reason why I wanted to do it, the next time I make something I might get that extra bit closer what is in my head.
+>
+>You know what they say about aiming for stars and hitting treetops.”
+>
+>– [Andreas Müller](http://www.hahakid.net/forallseasons/forallseasons.html)
