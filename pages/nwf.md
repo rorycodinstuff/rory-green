@@ -43,9 +43,12 @@ Check out these digital journals for inspiration:
 - [Taper](https://taper.badquar.to/)
 - Liminal ([Glitch](https://www.liminalmag.com/glitch), [Taste](https://www.liminalmag.com/taste) and [Community](https://www.liminalmag.com/community) issues)
 
-There are many free online tools, like [Twine](https://twinery.org/) and [Bitsy](https://www.bitsy.org/), you can use to start making digital work.  A much larger list of free software to explore is available at the Tiny Tools Directory. Make things, experiment, play!
+There are many free online tools, like [Twine](https://twinery.org/) and [Bitsy](https://www.bitsy.org/), you can use to start making digital work.  A much larger list of free software to explore is available at the [Tiny Tools Directory](https://tinytools.directory/). Make things, experiment, play!
 
-If you are interested in learning to code creatively, The Coding Train video series on YouTube is fantastic.
+If you are interested in learning to use code creatively, [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) video series on YouTube is fantastic, and I use it all the time.
+
+If you ever have questions, you are welcome to email me: hi@rory.green
+
 
 >"This is the result of over a year of late nights and weekends and the desire to completely disregard implementation and my current skill level when thinking up the concept for a piece.
 >
