@@ -12,7 +12,7 @@ Below are a few of my digital poems.
 **gengar**
 [Cordite Poetry Review](http://cordite.org.au/poetry/propaganda/gengar/), 2020.
 
-<iframe src="https://media.cordite.org.au/gengar/">
+<iframe style="width: 90%" src="https://media.cordite.org.au/gengar/">
 
 
 <style>
