@@ -7,33 +7,15 @@ navtitle: NWF
 
 I'm Rory Green, and I'm a writer, editor and digital media artist living on unceded Gadigal land.
 
+## My work
 Some of the poems I talk about in the NWF panel 'Demystifying Experimental Poetry' can be found below.
 
-**venusaur** - published in [Otherwise Pokedex](https://tinyletter.com/otherwisepokedex), 2018.
-
-<img style="width: 100%; height: auto;" alt="gorging on summer, clustered like cars, humming outside the power plant / when we left the tunnel i swear it was like marmalade had been spilt / across the valley, red ochre vibrating in the warmth, we passed / a pasture bumper to bumper with them, chortling as they / work, reaping ultraviolet victuals, each ray bent to- / wards them in a ferric pull, sum total of a pure / ecology telescoped into a flower, and dad / reckons they chew up whole epochs / of energy in the time it takes us / to change tires, but they pay / us no mind as we sputter / back to the road, lost / in a soft reverence / for those gentle / sun-feeders" src="https://gallery.tinyletterapp.com/c3dbc724a5860c2c397306b824e34589fd724331/images/ccb42eea-fd57-4328-9913-e01af7e9b06b.jpg">
-
-**floor plan** – published in [Running Dog](https://rundog.art/poetry/floor-plan-rory-green/), 2019.
-
-<iframe style="width: 100%; height: 550px; border: none;" src="https://eager-ramanujan-a7af90.netlify.app/">
-
-
-## sentiment anomaly ##
-
-published in [The Lifted Brow](https://www.theliftedbrow.com/liftedbrow/2020/1/12/pproujynrq3mc96e8kzw2ghuv08kz7), 2020.
-
-<iframe style="width: 100%; height: 600px;  border: none;" src="https://sentiment-anomaly.glitch.me/">
-
-
-**gengar** - published in [Cordite Poetry Review](http://cordite.org.au/poetry/propaganda/gengar/), 2020.
-
-<iframe style="width: 100%; height: 500px;  border: none;" src="https://media.cordite.org.au/gengar/">
-
-
-**UP** – published in [Taper](https://taper.badquar.to/6/up.html), 2021.
-
-<iframe style="width: 100%; height: 600px;  border: none;" src="https://taper.badquar.to/6/up.html">
-
+- **venusaur** - published in [Otherwise Pokedex](https://tinyletter.com/otherwisepokedex/letters/003-1), 2018.
+- **floor plan** – published in [Running Dog](https://rundog.art/poetry/floor-plan-rory-green/), 2019.
+- **sentiment anomaly** - published in [The Lifted Brow](https://www.theliftedbrow.com/liftedbrow/2020/1/12/pproujynrq3mc96e8kzw2ghuv08kz7), 2020.
+- **gengar** - published in [Cordite Poetry Review](http://cordite.org.au/poetry/propaganda/gengar/), 2020.
+- **UP** – published in [Taper](https://taper.badquar.to/6/up.html), 2021.
+- **oath fragments** - published in [Backslash Lit](https://backslashlit.com/issues/5/rory-green), 2021.
 
 ## Resources ##
 
