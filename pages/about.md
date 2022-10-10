@@ -25,17 +25,7 @@ I love teaching and mentoring, particularly across areas of interactive and mult
 
 I also have an ongoing writing project called [Otherwise Pokedex](https://tinyletter.com/otherwisepokedex), a Tinyletter I have been publishing since January 2017 with the aim to publish a poem for each of the 151 first generation Pokemon.
 
-I write poetry and electronic literature about memory, place and media culture. In 2016 I took part in Express Media's inaugural [Toolkits: Poetry program](https://expressmedia.org.au/news/introducing-the-poets-of-toolkits/), and in 2019 I was selected for Running Dog's [inaugural poetry micro-residency](http://rundog.art/news/announcing-running-dogs-inaugural-poetry-micro-residents/).
-
-Here are some things I have written:
-
-*
-* *mammoth*, [Rabbit Poetry issue 24, LGBTQIA+](http://rabbitpoetry.com/?product=rabbit-24-lgbtqia-within-australia)
-* *golem*, [Plumwood Mountain Volume 5 Number 2](https://plumwoodmountain.com/golem/)
-
-My current main writing project called [Otherwise Pokedex](https://tinyletter.com/otherwisepokedex), a Tinyletter I have been publishing since January 2017 with the aim to publish a poem for each of the 151 first generation Pokemon.
-
-I also make zines! My infozines are free to download and distribute:
+Finally, I also love making zines. My infozines are free to download and distribute:
 
 * [Make computer-generated poems, fiction and bots with Tracery](https://drive.google.com/open?id=1JGFwdwIIlpFUJd4rySR1XuFr5yGoQxhv)
 * [Little book of poem games](https://drive.google.com/open?id=1F-c0ekqIv4OYX2Sj48nuTcmLzBvCXfmx)
